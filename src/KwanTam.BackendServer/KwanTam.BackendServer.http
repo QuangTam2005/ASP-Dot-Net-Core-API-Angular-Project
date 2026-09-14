@@ -1,0 +1,6 @@
+@KwanTam.BackendServer_HostAddress = http://localhost:5120
+
+GET {{KwanTam.BackendServer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

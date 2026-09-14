@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "m7VMQQS+tSI=",
+  "success": true,
+  "projectFilePath": "E:\\FPTU\\FA26\\PRN232\\KwanTam\\src\\KwanTam.BackendServer\\KwanTam.BackendServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\quang\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.10\\microsoft.aspnetcore.openapi.10.0.10.nupkg.sha512",
+    "C:\\Users\\quang\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'Microsoft.OpenApi' 2.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-v5pm-xwqc-g5wc",
+      "projectPath": "E:\\FPTU\\FA26\\PRN232\\KwanTam\\src\\KwanTam.BackendServer\\KwanTam.BackendServer.csproj",
+      "warningLevel": 1,
+      "filePath": "E:\\FPTU\\FA26\\PRN232\\KwanTam\\src\\KwanTam.BackendServer\\KwanTam.BackendServer.csproj",
+      "libraryId": "Microsoft.OpenApi",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}

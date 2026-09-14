@@ -1,1 +1,3 @@
-<Solution />
+<Solution>
+  <Project Path="src/KwanTam.BackendServer/KwanTam.BackendServer.csproj" />
+</Solution>
